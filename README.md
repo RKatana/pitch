@@ -16,7 +16,7 @@
 
 ## Description
 
-Pitches is an app for pitching diffent ideas and let others comment and review them.
+Pitches is an app for pitching different ideas and let others comment and review them.
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Pitches is an app for pitching diffent ideas and let others comment and review t
 
 Please run the following command on your terminal on linux to clone our project:
 
-git clone [news-highlight](https://github.com/RKatana/pitch.git)
+git clone [pitch](https://github.com/RKatana/pitch.git)
 After the operation you will now be able to run the application locally on your computer.
 
 ------------------------------------------------------------------------
